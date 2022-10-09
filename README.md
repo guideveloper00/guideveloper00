@@ -25,3 +25,14 @@ Here are some ideas to get you started:
   <img alt="typescript" align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
+<div style="display: inline_block"><br/>
+  <img alt="styled componnents" align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+</div>
+
+<div style="display: inline_block"><br/>
+  <img alt="redux" align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+</div>
+
+<div style="display: inline_block"><br/>
+  <img alt="redux" align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
