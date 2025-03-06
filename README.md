@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![guideveloper00 GitHub stats](https://github-readme-stats.vercel.app/api?username=guideveloper00&show_icons=true&theme=onedark)
-
 <div style="display: inline_block"><br/>
   <img alt="react" align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
